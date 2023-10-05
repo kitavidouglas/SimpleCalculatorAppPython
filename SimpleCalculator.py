@@ -5,6 +5,7 @@
 # Get the user's name
 user_name = input("Enter your name: ")
 
+
 # GreetS the user 
 print(f"Hello, {user_name}!")
 
